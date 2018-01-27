@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3510378, 2018-01-13T04:55:14-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: NeueHaasUnicaW1G-Bold by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/neue-haas-unica/bold/
+ * 
+ * Webfont: NeueHaasUnicaW1G-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/neue-haas-unica/medium/
+ * 
+ * Webfont: NeueHaasUnicaW1G-Regular by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/neue-haas-unica/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3510378
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright &#x00A9; 2016 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/35906a");
+
+  
+@font-face {font-family: 'NeueHaasUnicaW1G-Bold';src: url('webfonts/35906A_0_0.eot');src: url('webfonts/35906A_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35906A_0_0.woff2') format('woff2'),url('webfonts/35906A_0_0.woff') format('woff'),url('webfonts/35906A_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NeueHaasUnicaW1G-Medium';src: url('webfonts/35906A_1_0.eot');src: url('webfonts/35906A_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35906A_1_0.woff2') format('woff2'),url('webfonts/35906A_1_0.woff') format('woff'),url('webfonts/35906A_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NeueHaasUnicaW1G-Regular';src: url('webfonts/35906A_2_0.eot');src: url('webfonts/35906A_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/35906A_2_0.woff2') format('woff2'),url('webfonts/35906A_2_0.woff') format('woff'),url('webfonts/35906A_2_0.ttf') format('truetype');}
+ 
